@@ -1,39 +1,60 @@
-@media print
-   {
-    @page {
-        size: A4;
-    }
-    body {
-       font-size: 12pt;
-    }
-
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
-    }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+@media print {
+   body {
+      margin-top: 40px;
+      font-size: 9pt;
+      background-color: #ffffff;
    }
-    .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
-    }
 
-    .remove-container.container-block {
-       display: none;
-    }
+   .break-before {
+      clear: both;
+      page-break-before: always;
+      margin-top: 50px;
+   }
 
-    footer {
-       display: none;
-    }
+   .sidebar-wrapper {
+      position: static;
+      float: right;
+      width: 40%;
+      margin-left: 40px;
+   }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
-    }
+   .wrapper {
+      box-shadow: none;
+   }
 
+   .container-block {
+      padding-bottom: 15px !important;
+   }
+
+   // h3.section-title i.fa-circle {
+   //    color: #2d7788;
+   // }
+
+   // h3.section-title i.fa-inverse {
+   //    color: #ffffff;
+   // }
+
+   .main-wrapper .upper-row {
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 2px;
+   }
+
+   .main-wrapper .job-title,
+   .main-wrapper .degree {
+      margin-top: 0;
+      margin-bottom: 0;
+   }
+
+   .main-wrapper .time {
+      position: absolute;
+      right: 0;
+      top: 0;
+   }
+
+   .footer {
+      display: none !important;
+      padding: 0;
+      margin: 0;
+   }
 }

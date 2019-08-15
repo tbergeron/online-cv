@@ -3,198 +3,127 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Tommy Bergeron
+    tagline: Senior Software Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: tom@brainpad.org
+    phone: +1 833 272 4610
+    website: brainpad.org #do not add http://
+    linkedin: tbergeron
+    github: tbergeron
+    gitlab: brainpad
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: '166612/tommy-b' # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: French
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
       - idiom: Spanish
-        level: Professional
+        level: Practical
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Performing Music, Cooking, Gardening, Gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I've been developing customized mobile, web and software solutions using bleeding edge technologies for the past 10+ years. I've worked in multiple industries including VoIP, VPN, hosting, ecommerce, marketing, enterprise resource planning, automobile & heavy metallurgy, and more.
 
-      Second paragraph if required.
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      I can adapt to a team or work independently and meet deadlines safely. I know my way around the full PHP or Node stack, also develop mobile apps using Ionic, Angular or React. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and even know the Adobe apps suite pretty well.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Consultant
+      time: 2012 - Present
+      company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations internationally.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: 2011 - 2012
+      company: 6i Solution inc. <em>(Trois-Rivières, Canada)</em>
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Build enterprise resource planning tools & solutions using C# and various Microsoft services, deal with client requests, work in a totally bilingual environment.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: System Administrator / Developer
+      time: 2011 - 2011
+      company: Savico Ltd. <em>(Berthierville, Canada)</em>
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Build Windows servers and maintain them. Maintain office workstations. Support the office staff with their daily needs. Develop custom enterprise resource planning tools and other software.
 
-          - Bullet point
-          - Bullet point
+    - role: Web Developer
+      time: 2008 - 2010
+      company: Egzakt <em>(Trois-Rivières, Canada)</em>
+      details: |
+        Project analysis, web design integration, web development and mobile app development. Deal with client requests. Demonstrate and explain projects to stakeholders.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Polycast
+        link: "https://polycast.brainpad.org/"
+        tagline: >
+          Cross-platform application I built from the ground up. Front-end built using Ionic (Angular) & Cordova. Also built the REST API back-end using Node & MongoDB.
+          <br><br>
+          <q>Listen to your favorite podcasts on any device without ever losing progress. Finally, a true cross-platform alternative to the big guys.</q>
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Plantbook
+        link: "https://apps.apple.com/us/app/plantbook-plants-companion/id1117656824"
+        tagline: >
+          Native iOS application built using Swift and Objective-C.
+          <br><br>
+          <q>Plantbook helps you take care of your precious plants so that they live longer, grow faster and never lack water once again.</q>
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Radio Talbot
+        link: "https://www.radiotalbot.tv/"
+        tagline: >
+          Official website I built for a locally famous TV host using Laravel, MySQL & FFMPEG. I handled a lot of API integrations (Twitch, Vimeo and SoundCloud) and FFMPEG-related tasks to prepare videos for the public.
+          <br><br>
+          <q>Radio Talbot has been broadcasting for more than 10 years. Every week, Denis Talbot talks about technology, esports and gaming industry news with his numerous contributors.</q>
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP & Laravel
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: JavaScript & Node.js
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: SQL & NoSQL Databases
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML5 & CSS3
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Mobile Development
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Angular, Ionic & React
+        level: 70%
+
+      - name: Adobe Apps
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+education:
+    - degree: DEC in Languages
+      university: CÉGEP de Trois-Rivières
+      time: 2006 - 2008
+
+footer:
