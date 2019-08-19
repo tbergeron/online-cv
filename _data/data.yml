@@ -67,27 +67,27 @@ experiences:
     - role: Senior Software Consultant / Owner
       time: 2012 - Present
       company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
-      breakbefore: true
       details: |
         Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context.
+      breakbefore: true
 
     - role: Software Engineer
       time: 2011 - 2012
       company: 6i Solution inc. <em>(Trois-Rivières, Canada)</em>
       details: |
-        Build a suite of enterprise resource planning tools & solutions using VB.NET & C#. Deal with multiple client requests. Follow strict Agile guidelines to deliver fast incremental improvements. Support software suite that is deployed to big US steel manufacturers. Work in a totally bilingual environment.
+        Build a suite of enterprise resource planning tools & solutions using VB.NET & C#. Deal with multiple client requests by phone. Work in a big team and follow strict Agile guidelines to deliver fast incremental improvements. Redact usage manuals, technical papers and documentation. Support software suite that is deployed to big US steel manufacturers. Work in a totally bilingual environment.
 
     - role: System Administrator / Software Developer
       time: 2011 - 2011
       company: Savico Ltd. <em>(Berthierville, Canada)</em>
       details: |
-        Build Windows servers and maintain them. Maintain office workstations. Support the office staff with their daily needs. Develop custom enterprise resource planning tools and other software.
+        Build Windows servers & workstations. Maintain these servers & workstations. Support the office staff with their daily needs. Plan & develop custom enterprise resource planning tools and other in-shop production-oriented software. Deploy & support multiple Symcod data acquisition terminals.
 
     - role: Programmer Analyst
       time: 2008 - 2010
       company: Egzakt <em>(Trois-Rivières, Canada)</em>
       details: |
-        Project analysis, web design integration, web development and mobile app development. Develop multiple public facing websites for big Quebec media organizations. Deal with client requests. Demonstrate and explain projects to stakeholders.
+        Project analysis, marketing, web design integration, web development and mobile app development. Work on the development of multiple well known public facing websites for big Quebec media organizations. Deal with multiple clients requests. Demonstrate and explain projects to stakeholders.
 
 projects:
     title: Projects
