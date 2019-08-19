@@ -10,7 +10,7 @@
   </h2>
 
   {% for experience in experiences %}
-  <div class="item">
+  <div class="item{% if experience.breakbefore %} break-before{% endif }">
 
     <div class="meta">
 
