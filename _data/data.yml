@@ -56,7 +56,7 @@ experiences:
       time: 2015 - Present
       company: Radio Talbot <em>(Remotely; Longueuil, Canada)</em>
       details: |
-        Keep the video platform updated with latest episodes, sponsors, game reviews, gadget reviews and more. Develop & maintain a web video hosting platform. Handle back-end video processing via FFMPEG.
+        Keep the video platform updated with latest episodes, sponsors, game reviews, gadget reviews and more. Develop & maintain a web video hosting platform. Handle back-end video processing via FFMPEG. Integrate multiple external APIs into a single platform. Administer and optimize server instances to deliver millions requests a year.
 
     - role: Lead Front-End Developer
       time: 2014 - 2016
@@ -68,7 +68,7 @@ experiences:
       time: 2012 - Present
       company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
       details: |
-        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience.
+        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context.
 
     - role: Software Engineer
       time: 2011 - 2012
