@@ -45,12 +45,30 @@ career-profile:
 
       I can adapt to a team or work independently and meet deadlines safely. I know my way around the full PHP or Node stack, also develop mobile apps using Ionic, Angular or React. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and even know the Adobe apps suite pretty well.
 
-experiences:
+experiences:        
+    - role: Back-End Developer & Project Manager
+      time: 2018 - 2019
+      company: VoiceMeUp / Internet Infinity <em>(Remotely; Laval, Canada)</em>
+      details: |
+        Plan upcoming projects, split projects into tasks and assign proper estimates to them. Develop new APIs, database maintenance scripts, sub-account billing scripts and more back-end oriented tasks. Communicate with clients and leverage priorities in an Agile context.
+
+    - role: Technical Lead
+      time: 2015 - Present
+      company: Radio Talbot <em>(Remotely; Longueuil, Canada)</em>
+      details: |
+        Develop & maintain a web video hosting platform. Handle back-end video processing via FFMPEG. Keep the video platform updated with latest episodes, sponsors, game reviews, gadget reviews and more.
+
+    - role: Lead Front-End Developer
+      time: 2014 - 2016
+      company: UnoTelly <em>(Remotely; Toronto, Canada)</em>
+      details: |
+        Develop Electron-based desktop applications, Cordova-based applications, payment gateways and user interfaces. Research new technologies for upcoming projects. Teach about the on-going projects to new employees.
+
     - role: Senior Software Consultant
       time: 2012 - Present
       company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
       details: |
-        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations internationally.
+        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience.
 
     - role: Software Engineer
       time: 2011 - 2012
