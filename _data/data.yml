@@ -46,7 +46,7 @@ career-profile:
       I can adapt to a team or work independently and meet deadlines safely. I know my way around the full PHP or Node stack, also develop mobile apps using Ionic, Angular or React. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and even know the Adobe apps suite pretty well.
 
 experiences:        
-    - role: Back-End Developer & Project Manager
+    - role: Back-End Developer / Project Manager
       time: 2018 - 2019
       company: VoiceMeUp / Internet Infinity <em>(Remotely; Laval, Canada)</em>
       details: |
@@ -64,7 +64,7 @@ experiences:
       details: |
         Develop Electron-based desktop applications, Cordova-based applications, payment gateways and user interfaces. Research new technologies for upcoming projects. Teach about the on-going projects to new employees.
 
-    - role: Senior Software Consultant
+    - role: Senior Software Consultant / Owner
       time: 2012 - Present
       company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
       details: |
@@ -76,7 +76,7 @@ experiences:
       details: |
         Build enterprise resource planning tools & solutions using C# and various Microsoft services, deal with client requests, work in a totally bilingual environment.
 
-    - role: System Administrator & Support / Software Developer
+    - role: System Administrator / Software Developer
       time: 2011 - 2011
       company: Savico Ltd. <em>(Berthierville, Canada)</em>
       details: |
