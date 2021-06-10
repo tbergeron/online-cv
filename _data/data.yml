@@ -13,12 +13,12 @@ sidebar:
 
     # Sidebar links
     email: tom@brainpad.org
-    phone: +1 833 272 4610
+    phone: +1 819 996 0115
     website: brainpad.org #do not add http://
     linkedin: tbergeron
     github: tbergeron
     gitlab: brainpad
-    bitbucket:
+    bitbucket: tbergeron
     twitter:
     stack-overflow: '166612/tommy-b' # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -43,33 +43,33 @@ career-profile:
     summary: |
       I've been developing customized mobile, web and software solutions using bleeding edge technologies for the past 10+ years. I've worked in multiple industries including VoIP, VPN, hosting, ecommerce, marketing, enterprise resource planning, automobile & heavy metallurgy, and more.
 
-      I can adapt to a team or work independently and meet deadlines safely. I know my way around the full PHP or Node stack, also develop mobile apps using Ionic, Angular or React. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and even know the Adobe apps suite pretty well.
+      I can adapt to a team or work independently. I know my way around the full stack and love tackling difficult and complex challenges. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management. I know my way through most of the Linux stack, I have good knowledge of legacy technologies and am very comfortable with any terminal / command line interface. I don't fear being pushed outside of my comfort zone and can handle project management & client relationships.
 
-experiences:        
+experiences:
+    - role: Senior Software Consultant / Owner
+      time: 2012 - Present
+      company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
+      details: |
+        Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
+      breakbefore: true
+
     - role: Back-End Developer / Project Manager
       time: 2018 - 2019
-      company: VoiceMeUp / Internet Infinity <em>(Remotely; Laval, Canada)</em>
+      company: VoiceMeUp / Internet Infinity <em>(Remote; Laval, Canada)</em>
       details: |
         Plan upcoming projects, split projects into tasks and assign proper estimates to them. Develop new APIs, database maintenance scripts, accounting & billing scripts, external API integrations and user-friendly interfaces. Communicate with clients and leverage priorities in an Agile context. Demonstrate results to stakeholders and improve based on feedback.
 
     - role: Technical Lead
       time: 2015 - Present
-      company: Radio Talbot <em>(Remotely; Longueuil, Canada)</em>
+      company: Radio Talbot <em>(Remote; Longueuil, Canada)</em>
       details: |
         Keep the video platform updated with latest episodes, sponsors, game reviews, gadget reviews and more. Develop & maintain a web video hosting platform. Handle back-end video processing via FFMPEG. Integrate multiple external APIs into a single platform. Administer and optimize server instances to deliver millions requests a year.
 
-    - role: Lead Front-End Developer
+    - role: Lead Developer
       time: 2014 - 2016
-      company: UnoTelly <em>(Remotely; Toronto, Canada)</em>
+      company: UnoTelly <em>(Remote; Toronto, Canada)</em>
       details: |
         Improve the existing client-facing website. Develop Electron & Cordova-based applications, REST APIs and payment gateways. Research new technologies for upcoming projects. Teach about the on-going projects to new employees. Participate in project development and marketing-oriented meetings.
-
-    - role: Senior Software Consultant / Owner
-      time: 2012 - Present
-      company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
-      details: |
-        Develop custom solutions for mobile, web and software platforms using bleeding edge technologies. Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context.
-      breakbefore: true
 
     - role: Software Engineer
       time: 2011 - 2012
@@ -77,7 +77,7 @@ experiences:
       details: |
         Build a suite of enterprise resource planning tools & solutions using VB.NET & C#. Deal with multiple client requests by phone. Work in a big team and follow strict Agile guidelines to deliver fast incremental improvements. Redact usage manuals, technical papers and documentation. Support software suite that is deployed to big US steel manufacturers. Work in a totally bilingual environment.
 
-    - role: System Administrator / Software Developer
+    - role: System Administrator / Software Engineer
       time: 2011 - 2011
       company: Savico Ltd. <em>(Berthierville, Canada)</em>
       details: |
@@ -119,26 +119,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP & Laravel
+      - name: JavaScript & Node.js
         level: 100%
 
-      - name: JavaScript & Node.js
+      - name: PHP
         level: 100%
 
       - name: SQL & NoSQL Databases
         level: 90%
 
-      - name: HTML5 & CSS3
-        level: 80%
-
-      - name: Mobile Development
-        level: 70%
-
       - name: Angular, Ionic & React
         level: 70%
 
+      - name: .NET, VB & C#
+        level: 70%
+
+      - name: Objective-C & Swift
+        level: 70%
+
 education:
-    - degree: DEC in Languages
+    - degree: DEC in Arts & Literature (Languages)
       university: CÉGEP de Trois-Rivières
       time: 2006 - 2008
 
