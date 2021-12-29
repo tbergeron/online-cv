@@ -35,13 +35,13 @@ sidebar:
         level: Practical
 
     interests:
-      - item: Computer sciences in general, Performing music, Finances, Traveling, Gardening
+      - item: Computer Sciences in general, Performing music, Finances, Traveling, Gardening
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I've been developing customized mobile, web and software solutions using bleeding edge technologies for the past 10+ years. I've worked in multiple industries including VoIP, VPN, web hosting, e-commerce, health, marketing, enterprise resource planning, automobile, metallurgy, and more.
+      I've been developing customized mobile, web and software solutions using bleeding edge technologies for the past 10+ years. I've worked in multiple industries including medical/health, VoIP, VPN, web hosting, e-commerce, marketing, enterprise resource planning, automobile, metallurgy, and more.
 
       I can adapt to a team or work independently. I know my way around the full stack and love tackling difficult and complex challenges. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and more.
       
@@ -54,7 +54,13 @@ experiences:
       details: |
         Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
 
-    - role: Back-End Developer / Project Manager
+    - role: Tech Lead / Software Engineer
+      time: 2021 - 2022
+      company: NOVO - Physical & Digital Product Development + Medical Devices <em>(Trois-Rivières, Canada)</em>
+      details: |
+        Plan, evaluate and manage development of embedded systems on medical hardware devices. Resolve complex software problems. Bridge communication between engineers, consultants and clients. Support software, firmware and hardware engineers.
+
+    - role: Back-End Engineer / Project Manager
       time: 2018 - 2019
       company: VoiceMeUp / Internet Infinity <em>(Remote; Laval, Canada)</em>
       details: |
@@ -140,7 +146,7 @@ skills:
         level: 70%
 
 education:
-    - degree: DEC in Arts & Literature (Languages)
+    - degree: DEC in Arts, Literature and Communication - Languages
       university: CÉGEP de Trois-Rivières
       time: 2006 - 2008
 
