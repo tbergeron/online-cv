@@ -65,6 +65,7 @@ experiences:
       company: VoiceMeUp / Internet Infinity <em>(Remote; Laval, Canada)</em>
       details: |
         Plan upcoming projects, split projects into tasks and assign proper estimates to them. Develop new APIs, database maintenance scripts, accounting & billing scripts, external API integrations and user-friendly interfaces. Communicate with clients and leverage priorities in an Agile context. Demonstrate results to stakeholders and improve based on feedback.
+      breakbefore: true
 
     - role: Technical Lead
       time: 2015 - Present
@@ -77,7 +78,6 @@ experiences:
       company: UnoTelly <em>(Remote; Toronto, Canada)</em>
       details: |
         Improve the existing client-facing website. Develop Electron & Cordova-based applications, REST APIs and payment gateways. Research new technologies for upcoming projects. Teach about the on-going projects to new employees. Participate in project development and marketing-oriented meetings.
-      breakbefore: true
 
     - role: Back-End Software Engineer
       time: 2011 - 2012
