@@ -130,7 +130,7 @@ skills:
       - name: JavaScript & Node.js
         level: 100%
 
-      - name: PHP
+      - name: PHP & Frameworks
         level: 100%
 
       - name: SQL & NoSQL Databases
@@ -142,7 +142,7 @@ skills:
       - name: Project Management
         level: 90%
 
-      - name: Linux Systems Architecture
+      - name: Linux
         level: 90%
 
       - name: Angular, Ionic & React
