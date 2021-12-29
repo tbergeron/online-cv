@@ -35,7 +35,7 @@ sidebar:
         level: Practical
 
     interests:
-      - item: Computer Sciences in general, Performing music, Finances, Traveling, Gardening
+      - item: Computer Sciences, Video Games, Performing Music, Finances, Traveling
         link:
 
 career-profile:
@@ -54,11 +54,11 @@ experiences:
       details: |
         Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
 
-    - role: Tech Lead / Software Engineer
+    - role: Tech Lead / Full-Stack Software Engineer
       time: 2021 - 2022
       company: NOVO - Physical & Digital Product Development + Medical Devices <em>(Trois-Rivières, Canada)</em>
       details: |
-        Plan, evaluate and manage development of embedded systems on medical hardware devices. Resolve complex software problems. Bridge communication between engineers, consultants and clients. Support software, firmware and hardware engineers.
+        Plan, evaluate, develop and manage development of embedded systems on medical hardware devices. Resolve complex engineering problems. Support software, firmware and hardware engineers. Generate documentation for existing projects. Bridge communication between engineers, consultants and clients.
 
     - role: Back-End Engineer / Project Manager
       time: 2018 - 2019
@@ -72,14 +72,14 @@ experiences:
       details: |
         Keep the video platform updated with latest episodes, sponsors, game reviews, gadget reviews and more. Develop & maintain a web video hosting platform. Handle back-end video processing via FFMPEG. Integrate multiple external APIs into a single platform. Administer and optimize server instances to deliver millions requests a year.
 
-    - role: Lead Developer
+    - role: Lead Full-Stack Engineer
       time: 2014 - 2016
       company: UnoTelly <em>(Remote; Toronto, Canada)</em>
       details: |
         Improve the existing client-facing website. Develop Electron & Cordova-based applications, REST APIs and payment gateways. Research new technologies for upcoming projects. Teach about the on-going projects to new employees. Participate in project development and marketing-oriented meetings.
       breakbefore: true
 
-    - role: Software Engineer
+    - role: Back-End Software Engineer
       time: 2011 - 2012
       company: 6i Solution inc. <em>(Trois-Rivières, Canada)</em>
       details: |
