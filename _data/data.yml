@@ -136,11 +136,11 @@ skills:
       - name: SQL & NoSQL Databases
         level: 90%
 
-      - name: Angular, Ionic & React
-        level: 70%
-
       - name: .NET, VB & C#
-        level: 70%
+        level: 90%
+
+    - name: Angular, Ionic & React
+        level: 80%
 
       - name: Objective-C & Swift
         level: 70%
