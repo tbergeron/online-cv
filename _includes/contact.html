@@ -24,7 +24,13 @@
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
-
+    
+    {% if sidebar.stack-overflow %}
+    <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
+      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
@@ -46,12 +52,6 @@
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.stack-overflow %}
-    <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 
