@@ -156,14 +156,11 @@ skills:
       - name: SQL & NoSQL Databases
         level: 90%
 
-      - name: C#, Visual Basic & .NET
+      - name: C#, Visual Basic, .NET
         level: 90%
 
-      - name: Project Management
-        level: 90%
-
-      - name: Linux
-        level: 90%
+      - name: Linux Server Administration
+        level: 80%
 
       - name: Objective-C & Swift
         level: 70%
