@@ -55,12 +55,6 @@ career-profile:
       Contact me at anytime, thanks for checking out my profile! 👋
 
 experiences:
-    - role: Senior Software Consultant / Owner
-      time: 2012 - Present
-      company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
-      details: |
-        Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
-
     - role: Lead Software Engineer
       time: 2022 - Present
       company: Tap to Tie <em>(Stuttgart, Baden-Württemberg, Germany)</em>
@@ -91,6 +85,12 @@ experiences:
       company: UnoTelly <em>(Remote; Toronto, Canada)</em>
       details: |
         Improve the existing client-facing website. Develop Electron & Cordova-based applications, REST APIs and payment gateways. Research new technologies for upcoming projects. Teach about the on-going projects to new employees. Participate in project development and marketing-oriented meetings.
+
+    - role: Senior Software Consultant / Owner
+      time: 2012 - Present
+      company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
+      details: |
+        Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
 
     - role: Back-End Software Engineer
       time: 2011 - 2012
