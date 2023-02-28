@@ -13,13 +13,12 @@ sidebar:
 
     # Sidebar links
     email: tom@brainpad.org
-    phone: +1 819 995 0115
     website: brainpad.org/en #do not add http://
     linkedin: tbergeron
     github: tbergeron
     gitlab: brainpad
     bitbucket: tbergeron
-    twitter:
+    twitter: buildwithtom
     stack-overflow: '166612/tommy-b' # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
