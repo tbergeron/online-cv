@@ -41,11 +41,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I've been developing customized mobile, web and software solutions using bleeding edge technologies for the past 10+ years. I've worked in multiple industries including medical/health, VoIP, VPN, web hosting, e-commerce, marketing, enterprise resource planning, automobile, metallurgy, and more.
+      Hi! 👋 I'm a senior freelance engineer and open-source contributor who've been building mobile, web and software solutions for the past 15 years in multiple industries including the Medical/Health Industry, Artificial Intelligence (AI), Adult Industry, Social Media, SaaS, VoIP, VPN, Web Hosting, E-Commerce & Marketing, ERPs, Automobile, Metallurgy and more.
 
-      I can adapt to a team or work independently. I know my way around the full stack and love tackling difficult and complex challenges. I can also handle Linux & Windows server administration, virtualization management (AWS, Digital Ocean, etc), DNS management and more.
-      
-      I have good knowledge of legacy technologies and am very comfortable with any terminal / command line interface. I don't fear being pushed outside of my comfort zone and can handle project management & client relationships.
+      🌟 Areas of Expertise 🌟
+
+      NodeJS, TypeScript, React/Native, PHP / Laravel / Symfony, C# / VB / .NET, MySQL, PostgreSQL, MSSQL, MongoDB, VueJS, Angular, Ionic, Bootstrap, SCSS, REST APIs, DigitalOcean, AWS (Lambda, EC2, S3, RDS and more), Firebase, Linux server configuration/administration and much more.
+
+      👨‍💻 Why Choose Me 👨‍💻
+
+      I focus not only on delivering value, but I also improve all the projects I work on with my expertise in marketing, design and all around highly diverse background. I really enjoy helping solo founders turn their dream project into reality or revamping old janky code bases into something solid and future proof.
+
+      I encourage you to take a look at my work history and other related profiles. (I'm active on GitHub, StackOverflow and LinkedIn)
+
+      Contact me at anytime, thanks for checking out my profile! 👋
 
 experiences:
     - role: Senior Software Consultant / Owner
@@ -53,6 +61,12 @@ experiences:
       company: Brainpad Consulting <em>(Trois-Rivières, Canada)</em>
       details: |
         Provide on-demand and on-site consultancy for multiple organizations. Develop in-house projects for a wider public audience. Research new technologies and apply them in a production context. Develop custom solutions for mobile, web and software platforms.
+
+    - role: Lead Software Engineer
+      time: 2022 - Present
+      company: Tap to Tie <em>(Stuttgart, Baden-Württemberg, Germany)</em>
+      details: |
+        Lead engineering efforts, give technical advice, plan, execute and build what is needed to help the company move forward and to help separate ourselves from the competition.
 
     - role: Tech Lead / Full-Stack Software Engineer
       time: 2021 - 2022
@@ -102,6 +116,11 @@ projects:
     intro:
 
     assignments:
+      - title: Aiva AI Virtual Assistant
+        link: "https://aiva.brainpad.org/"
+        tagline: >
+          An empowered artificial intelligence that’s faster and smarter than any search engine. Built on OpenAI API (GPT-3 LLM), React Native (TypeScript), Google Cloud Services and Apple SDKs.
+
       - title: Polycast
         link: "https://polycast.brainpad.org/"
         tagline: >
@@ -127,7 +146,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JavaScript & Node.js
+      - name: JavaScript, TypeScript & Node.js
+        level: 100%
+
+      - name: React & React Native
         level: 100%
 
       - name: PHP & Frameworks
@@ -145,13 +167,10 @@ skills:
       - name: Linux
         level: 90%
 
-      - name: Angular, Ionic & React
-        level: 80%
-
-      - name: Bash & Python
+      - name: Objective-C & Swift
         level: 70%
 
-      - name: Objective-C & Swift
+      - name: Bash & Python
         level: 70%
 
 education:
