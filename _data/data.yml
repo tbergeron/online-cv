@@ -141,7 +141,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JavaScript, TypeScript & Node.js
+      - name: JavaScript & TypeScript
+        level: 100%
+
+      - name: Node, Express, etc.
         level: 100%
 
       - name: React & React Native
